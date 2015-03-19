@@ -1,7 +1,7 @@
 jQuery CTS XSLT Helper
 ===
 
-[![Build Status](https://travis-ci.org/Capitains/jQuery.xslt.svg?branch=master)](https://travis-ci.org/Capitains/jQuery.xslt)
+[![Build Status](https://travis-ci.org/Capitains/jQuery.service.svg?branch=master)](https://travis-ci.org/Capitains/jQuery.service)
 
 In all example and documentation, "target element" or $(target) is the element on which ctsXSLT have been started. To start a XSLT on a given container - thus filling it with the form -, use the following expression : `$(element).ctsXSLT(XSLTName, options)`
 
