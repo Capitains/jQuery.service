@@ -1,9 +1,9 @@
 {
   "name": "capitains-sparrow.service",
-  "version": "0.0.2",
+  "version": "0.0.3",
   "homepage": "https://github.com/Capitains/jQuery.service",
   "authors": [
-    "Thibault Clérice <leponteineptique@gmail.com>"
+    "Thibault Clerice <leponteineptique@gmail.com>"
   ],
   "description": "CTS API abstractions and jQuery plugin",
   "main": "dist/cts.jquery.service.min.js",

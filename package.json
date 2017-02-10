@@ -1,7 +1,7 @@
 {
   "name": "capitains-sparrow.service",
   "description": "jQuery service plugin for CTS repositories",
-  "version": "0.0.2",
+  "version": "0.0.3",
   "keywords": [
     "CITE",
     "CTS",
@@ -40,7 +40,7 @@
   },
   "contributors": [
     {
-      "name": "Thibault Clérice",
+      "name": "Thibault Clerice",
       "email": "",
       "web": "http://github.com/PonteIneptique"
     },
